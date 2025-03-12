@@ -2,6 +2,10 @@
 
 Chameleon VoiceMod is a **real-time voice changer and audio modifier** built using python it allows changing voice realtime, as well as pre-recorded audio file. It supports different configurations like background noice reduction, distortion, pitch adjustment, etc. Ideal for gamers, content creator and privacy concerned users with easy-to-use interface.
 
+# Important
+
+This app is not stable, I will try to improve it further.
+
 # Installation
 ## Clone the repository
 

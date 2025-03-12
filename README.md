@@ -16,7 +16,7 @@ Chameleon VoiceMod is a **real-time voice changer and audio modifier** built usi
 ```
 # Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Image](https://github.com/user-attachments/assets/dbf30d76-be27-4f0b-8a6c-2f0d837cf9bf)
 
 # License
 

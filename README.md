@@ -14,7 +14,7 @@ This app is not stable, I will try to improve it further.
 ```
 ## Install requirements
 ```bash
-  cd Chameleon
+  cd Chameleon-VoiceMod
   pip3 install -r requirements.txt
   python3 main.py
 ```

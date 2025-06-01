@@ -24,4 +24,4 @@ This app is not stable, I will try to improve it further.
 
 # License
 
-Chameleon VoiceMod is licensed under the GNU General Public License v3.0. See [LICENSE](https://github.com/vibebhavv/Chameleon/blob/main/LICENSE) for more information.
+Chameleon VoiceMod is licensed under the GNU General Public License v3.0. See [LICENSE](https://github.com/vibebhavv/Chameleon-VoiceMod/blob/main/LICENSE) for more information.

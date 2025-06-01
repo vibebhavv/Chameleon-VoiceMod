@@ -10,7 +10,7 @@ This app is not stable, I will try to improve it further.
 ## Clone the repository
 
 ```bash
-  git clone https://github.com/V4IBH4V-11/Chameleon-VoiceMod
+  git clone https://github.com/vibebhavv/Chameleon-VoiceMod
 ```
 ## Install requirements
 ```bash
